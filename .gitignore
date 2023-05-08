@@ -1,1 +1,5 @@
+# Modules node
 node_modules
+
+# File system mac
+.DS_Store

@@ -31,9 +31,11 @@ Dans le repo en local :
 
 Ne pas oublier les commit et push
 
-3. Créer une PR pour générer la modification
+3. Validez la modification de l'application dans la branche `dev`
 
-4. Mettre à jour la branche `main`
+4. Créer une PR pour générer la modification
+
+5. Mettre à jour la branche `main`
 
 ### Valider la modification
 
@@ -51,3 +53,7 @@ Vérifier que le nom a bien été modifié et envoyer un screenshot via Teams.
 3. Créer une PR pour générer la modification
 
 4. Mettre à jour la branche `main`
+
+5. Valider la modification
+
+6. Rafraichir le repo local

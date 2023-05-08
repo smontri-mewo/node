@@ -21,6 +21,8 @@ Dans le repo en local :
 
 ## Exercice 3 - Branching
 
+## Branche Dev
+
 1. Créez une nouvelle branche `dev`
 
 2. Modifiez le nom du créateur dans le bas de page (identifiez où réaliser le changement dans le code)
@@ -29,10 +31,13 @@ Dans le repo en local :
 
 Ne pas oublier les commit et push
 
-## Valider la modification 
+3. Créer une PR pour 
+
+4. Mettre à jour la branche `main`
+
+## Valider la modification
 
 1. Rafraîchir le repo local
 
 2. Exécuter l'application à nouveau
 Vérifier que le nom a bien été modifié et envoyer un screenshot via Teams.
-

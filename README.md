@@ -21,7 +21,7 @@ Dans le repo en local :
 
 ## Exercice 3 - Branching
 
-##1 Branche Dev
+### Branche Dev
 
 1. Créez une nouvelle branche `dev`
 

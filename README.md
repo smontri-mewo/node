@@ -16,7 +16,7 @@ Dans le repo en local :
 - installation des packages
 - run de l'application
 
-# Exercice 3 - Branching
+## Exercice 3 - Branching
 
 Créez une nouveelle branche via une PR
 

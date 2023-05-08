@@ -21,7 +21,7 @@ Dans le repo en local :
 
 ## Exercice 3 - Branching
 
-## Branche Dev
+##1 Branche Dev
 
 1. Créez une nouvelle branche `dev`
 
@@ -35,7 +35,7 @@ Ne pas oublier les commit et push
 
 4. Mettre à jour la branche `main`
 
-## Valider la modification
+### Valider la modification
 
 1. Rafraîchir le repo local
 

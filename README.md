@@ -18,6 +18,10 @@ Dans le repo en local :
 
 ## Exercice 3 - Branching
 
-Créez une nouveelle branche via une PR
+1. Créez une nouvelle branche 
+
+2. Modifiez le nom du créateur dans le bas de page
+
+![createur](images/createur.jpg)
 
 

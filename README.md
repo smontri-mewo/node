@@ -29,13 +29,10 @@ Dans le repo en local :
 
 Ne pas oublier les commit et push
 
-# Exercice 3 - Branching
-
-Créez une nouveelle branche via une PR
-
 ## Valider la modification 
 
 1. Rafraîchir le repo local
 
 2. Exécuter l'application à nouveau
 Vérifier que le nom a bien été modifié et envoyer un screenshot via Teams.
+

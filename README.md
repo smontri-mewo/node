@@ -31,7 +31,7 @@ Dans le repo en local :
 
 Ne pas oublier les commit et push
 
-3. Créer une PR pour 
+3. Créer une PR pour générer la modification
 
 4. Mettre à jour la branche `main`
 
@@ -41,3 +41,13 @@ Ne pas oublier les commit et push
 
 2. Exécuter l'application à nouveau
 Vérifier que le nom a bien été modifié et envoyer un screenshot via Teams.
+
+## Exercice optionel - nouveau logo
+
+1. Créez une nouvelle branche `design`
+
+2. Modifiez le logo avec une image de votre choix
+
+3. Créer une PR pour générer la modification
+
+4. Mettre à jour la branche `main`

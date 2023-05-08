@@ -29,9 +29,9 @@ Dans le repo en local :
 
 Ne pas oublier les commit et push
 
-3. Créer une pull request
+# Exercice 3 - Branching
 
-4. Mettre à jour la branche `main`
+Créez une nouveelle branche via une PR
 
 ## Valider la modification 
 
